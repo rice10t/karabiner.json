@@ -5,9 +5,9 @@
 英数 + m = forward delete  
 英数 + space = enter
 
-かな + h = home  
+かな + h = ⌘ ←  
 かな + j = page down  
 かな + k = page up  
-かな + l = end
+かな + l = ⌘ →
 
-left control + [ = escape
+⌃[ = escape
