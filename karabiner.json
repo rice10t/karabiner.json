@@ -299,6 +299,25 @@
                                 "type": "basic"
                             }
                         ]
+                    },
+                    {
+                        "description": "_ = \\",
+                        "manipulators": [
+                            {
+                                "from": {
+                                    "key_code": "international1"
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "international3",
+                                        "modifiers": [
+                                            "left_option"
+                                        ]
+                                    }
+                                ],
+                                "type": "basic"
+                            }
+                        ]
                     }
                 ]
             },
