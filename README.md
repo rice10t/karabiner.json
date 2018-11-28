@@ -10,5 +10,5 @@
 かな + k = page up  
 かな + l = ⌘ →
 
-⌃[ = escape
+⌃[ = escape  
 ⌥_ = \
