@@ -1,14 +1,14 @@
 # karabiner.json
 
 英数 + hjkl = ←↓↑→  
-英数 + n = delete  
-英数 + m = forward delete  
-英数 + space = enter
+英数 + n = Delete  
+英数 + m = Forward delete  
+英数 + space = Enter
 
 かな + h = ⌘ ←  
-かな + j = page down  
-かな + k = page up  
+かな + j = Page down  
+かな + k = Page up  
 かな + l = ⌘ →
 
-⌃[ = escape  
+⌃[ = Escape  
 _ = \
